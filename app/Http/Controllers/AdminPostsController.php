@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Post;
-use http\Env\Request;
+use Illuminate\Http\Request;
 
 class AdminPostsController extends Controller
 {
